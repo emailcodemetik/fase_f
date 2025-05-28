@@ -1,16 +1,16 @@
 ## Modul Ajar: Pemrograman Web
 
-**Fase/Jenjang:** [Isi sesuai kebutuhan, misal: SMK/SMA/Perguruan Tinggi/Kursus]
-**Durasi:** [Isi total jam pelajaran, misal: 72 Jam Pelajaran (JP)]
+**Fase/Jenjang:** F, SMK Satya Praja 2 Petarukan
+**Durasi:** 78 Jam Pelajaran (JP)
 
 ---
 
 ### I. Informasi Umum
 
-* **Nama Penyusun:** [Nama Anda/Tim]
-* **Institusi:** [Nama Institusi]
+* **Nama Penyusun:** Muhammad Irfa Nufaiyal Kharish, S.Kom
+* **Institusi:** SMK Satya Praja 2 Petarukan
 * **Tahun Penyusunan:** 2025
-* **Jenjang Sekolah:** [Isi sesuai jenjang]
+* **Jenjang Sekolah:** SMK/Sekolah Menengah Kejuruan
 * **Mata Pelajaran:** Pemrograman Web
 * **Elemen Capaian Pembelajaran:**
     * Memahami konsep dan menerapkan perintah HTML, CSS, pemrograman JavaScript, bahasa pemrograman server-side, serta implementasi framework pada pembuatan web statis dan dinamis untuk beragam kebutuhan yang kontekstual.
